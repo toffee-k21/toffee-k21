@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarda)](https://github.com/rahulkarda/readme-components)
+
 [![An image of @toffeek21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toffeek21)](https://holopin.io/@toffeek21)
 
 <!--
