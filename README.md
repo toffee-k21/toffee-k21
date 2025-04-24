@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffee-k21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![An image of @toffeek21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toffeek21)](https://holopin.io/@toffeek21)
 
 <!--
