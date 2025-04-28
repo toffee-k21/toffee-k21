@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Taufiq Hassan !
 
-## 🚀 About Me
 A passionate Full Stack Developer | Blockchain Enthusiast.  
 I love exploring new technology.
 
