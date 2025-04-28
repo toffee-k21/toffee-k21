@@ -1,8 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Taufiq Hassan !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffee-k21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 About Me
+A passionate Full Stack Developer | Blockchain Enthusiast.  
+I love exploring new technology.
+
+---
+
 [![An image of @toffeek21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toffeek21)](https://holopin.io/@toffeek21)
 
+---
+
+## 🛠️ Technologies & Tools
+- **Languages:** [JavaScript, TypeScript, Go, Python, C/C++, Solidity, etc.]
+- **Frameworks:** [React, Next.js, Node.js, Express, etc.]
+- **Databases:** [MongoDB, PostgreSQL, sqlite, etc.]
+- **Other:** [Docker, AWS, Kafka, Git, GraphQl, Linux etc.]
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn](www.linkedin.com/in/taufiq-hassan-311221295)
+- [Portfolio](https://your-portfolio.com)
+- [Email](mailto:taufiq2004.21@gmail.com)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffee-k21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **toffee-k21/toffee-k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
