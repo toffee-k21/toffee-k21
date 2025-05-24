@@ -48,8 +48,8 @@ If you're interested in collaborating, feel free to check them out, open issues,
 ---
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/taufiq-hassan-311221295)
-- [Email](mailto:taufiq2004.21@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/taufiq-hassan-311221295)
+- [Email](https://mailto:taufiq2004.21@gmail.com)
 <!-- - [Portfolio](https://your-portfolio.com) -->
 ---
 
