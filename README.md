@@ -101,3 +101,13 @@ status:
 
 🔗 **Repo:** https://github.com/toffee-k21/NFTorium  
 
+
+## 📊 GitHub Stats  
+
+<p align=\"center\">
+  <img src=\"https://github-readme-stats.vercel.app/api?username=toffee-k21&show_icons=true&theme=tokyonight&hide_border=true\" width=\"48%\" />
+  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=toffee-k21&theme=tokyonight&hide_border=true\" width=\"48%\" />
+</p>
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=toffee-k21&limit=5&theme=dark&combine_all_yearly_contributions=true)
