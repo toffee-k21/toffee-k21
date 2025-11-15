@@ -29,7 +29,7 @@ Comfortable across frontend → backend → AWS → a bit of blockchain (ETH), b
 
 ## 💀 Skill Matrix
 
-\\\
+```
 > languages:
     - TypeScript ⚡
     - JavaScript ⚡
@@ -60,4 +60,4 @@ Comfortable across frontend → backend → AWS → a bit of blockchain (ETH), b
     - Docker
     - NGINX
     - Linux (Fedora + Ubuntu)
-\\\
+```
