@@ -56,3 +56,48 @@ Comfortable across frontend → backend → AWS → a bit of blockchain (ETH), b
     - NGINX
     - Linux (Fedora + Ubuntu)
 ```
+
+## 🚀 Featured Projects  
+
+### 🔗 SHRNK — Serverless URL Shortener  
+A fully cloud-native URL shortener built on AWS.
+
+```
+stack:
+  - TypeScript
+  - Express
+  - AWS Lambda
+  - DynamoDB
+  - API Gateway
+  - S3
+  - CloudWatch
+
+status:
+  > live  
+  > scalable  
+  > minimal architecture  
+```
+
+🔗 **Repo:** https://github.com/toffee-k21/shrnk  
+
+
+---
+
+### 🎨 NFTorium — NFT Marketplace  
+Decentralized marketplace for minting + trading NFTs.
+
+```
+stack:
+  - Solidity (ERC721)
+  - Hardhat
+  - React.js
+  - Ethers.js
+  - IPFS
+
+status:
+  > decentralized  
+  > gas-optimized  
+```
+
+🔗 **Repo:** https://github.com/toffee-k21/NFTorium  
+
