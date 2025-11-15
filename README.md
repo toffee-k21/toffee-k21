@@ -6,13 +6,13 @@
 
 ## 🛡️ AWS Certification  
 
-<p align=\"center\">
-  <a href=\"https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url\">
-    <img src=\"https://images.credly.com/size/340x340/images/0b6a0d3a-9e55-4b04-a148-1f7b98f4eec7/blob.svg\" width=\"160\" />
+<p align="center">
+  <a href="https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url">
+    <img src="https://images.credly.com/size/340x340/images/0b6a0d3a-9e55-4b04-a148-1f7b98f4eec7/blob.svg" width="160" />
   </a>
 </p>
 
-<p align=\"center\">
+<p align="center">
   <b>AWS Certified Cloud Practitioner — Scored 914/1000 ⚡</b>
 </p>
 
