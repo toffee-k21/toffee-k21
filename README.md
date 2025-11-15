@@ -26,3 +26,38 @@ taufiqhassan — full-stack dev | cloud engineer | systems enthusiast
 A builder who loves clean architecture, scalable backend systems, and cloud-native development.  
 Comfortable across frontend → backend → AWS → a bit of blockchain (ETH), but currently focused on  
 **systems, serverless apps, and production-grade engineering**.
+
+## 💀 Skill Matrix
+
+\\\
+> languages:
+    - TypeScript ⚡
+    - JavaScript ⚡
+    - Go (learning)
+    - C++ (DSA mode)
+    - Bash
+
+> backend:
+    - Node.js / Express
+    - REST / GraphQL
+    - WebSockets (real-time)
+    - Serverless (AWS Lambda, API Gateway)
+
+> cloud & infra:
+    - AWS Lambda
+    - DynamoDB / S3
+    - CloudWatch
+    - EC2 / IAM / VPC
+    - SSM Session Manager
+
+> databases:
+    - MongoDB
+    - PostgreSQL
+    - DynamoDB
+
+> tools:
+    - Git / GitHub
+    - Docker
+    - NGINX
+    - Linux (Fedora + Ubuntu)
+\\\
