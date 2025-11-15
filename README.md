@@ -19,10 +19,6 @@
 > **$ status**
 >
 > _debugging life, deploying dreams..._
->
-> **$ note**
->
-> _caffeine + code = output_
 
 ---
 
