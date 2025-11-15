@@ -1,8 +1,24 @@
 <h1 align="center">⚡ Hey, I'm Taufiq — Full-Stack Developer | Cloud | Systems ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Engineer+(AWS);Systems+Design+Learner;Open+Source+Contributor;Turning+Ideas+into+Code+%F0%9F%92%80">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+Cloud+Engineer;Systems+Design+Learner;Open+Source+Contributor;Coding+Like+It's+0xCAFEBABE" />
 </p>
+
+---
+
+## 🛡️ AWS Certification  
+
+[<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />](https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url)
+
+**AWS Certified Cloud Practitioner — 914/1000 ⚡**
+
+---
+
+## 🖥️ Whoami  
+
+```bash
+$ whoami
+taufiqhassan — full-stack dev | cloud engineer | systems enthusiast
 
 ## 🛡️ AWS Certification  
 
