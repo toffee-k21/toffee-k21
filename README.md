@@ -103,11 +103,27 @@ status:
 
 
 ## 📊 GitHub Stats  
-
-<p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=toffee-k21&show_icons=true&theme=tokyonight&hide_border=true\" width=\"48%\" />
-  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=toffee-k21&theme=tokyonight&hide_border=true\" width=\"48%\" />
-</p>
-
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=toffee-k21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🔌 Connect With Me  
+
+<p align=\"center\">
+  <a href=\"https://github.com/toffee-k21\">
+    <img src=\"https://skillicons.dev/icons?i=github\" width=\"48\" />
+  </a>
+  &nbsp;&nbsp;
+  <a href=\"https://www.linkedin.com/in/taufiq-hassan-311221295\">
+    <img src=\"https://skillicons.dev/icons?i=linkedin\" width=\"48\" />
+  </a>
+  &nbsp;&nbsp;
+  <a href=\"mailto:taufiq2004.21@gmail.com\">
+    <img src=\"https://skillicons.dev/icons?i=gmail\" width=\"48\" />
+  </a>
+</p>
+
+```bash
+ping taufiq
+> response: online  
+> status: building systems, shipping features, drinking chai...
+```
