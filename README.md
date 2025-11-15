@@ -6,10 +6,9 @@
 
 ## 🛡️ AWS Certification  
 
-[<img src="https://images.credly.com/size/120x120/images/0b6a0d3a-9e55-4b04-a148-1f7b98f4eec7/blob.svg" width="120" />](https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url)
+[<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" />](https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url)
 
 **AWS Certified Cloud Practitioner — Scored 914/1000 ⚡**
-
 
 
 ## 🖥️ Whoami  
