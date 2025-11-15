@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=toffee-k21&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src='https://github-contributor-stats.vercel.app/api?username=toffee-k21&limit=3&theme=dark&combine_all_yearly_contributions=true' alt="GitHub Contributor Stats" />
+  <img src='https://github-contributor-stats.vercel.app/api?username=toffee-k21&limit=4&theme=dark&combine_all_yearly_contributions=true' alt="GitHub Contributor Stats" />
 </p>
 
 ---
@@ -62,17 +62,17 @@
 | **Blockchain** | <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Ethers.js-213D7D?style=for-the-badge&logo=ethers&logoColor=white"/> |
 | **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/> |
 | **DevOps & Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> |
-| **Databases** | <img src="httpss://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="httpss://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> |
 
 ---
 
 ### 💻 $ projects --featured
 
-#### [SHRNK](httpss://github.com/toffee-k21/shrnk)
+#### [SHRNK](httpsS://github.com/toffee-k21/shrnk)
 * **Description:** A production-ready, serverless URL shortener. Built to be fast, lightweight, and scalable on the cloud.
 * **Stack:** `TypeScript` `Express` `AWS Lambda` `DynamoDB` `API Gateway`
 
-#### [NFTorium](httpss://github.com/toffee-k21/NFTorium)
+#### [NFTorium](httpsS://github.com/toffee-k21/NFTorium)
 * **Description:** An NFT marketplace demonstrating blockchain interaction. Allows minting, listing, and trading of digital assets on the Ethereum network.
 * **Stack:** `Solidity` `Ethers.js` `React` `Hardhat`
 
@@ -81,14 +81,14 @@
 ### 🔗 $ connect
 
 <p>
-  <a href="httpss://github.com/toffee-k21">
-    <img src="httpss://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/toffee-k21">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="#">
-    <img src="httpss://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#">
-    <img src="httpss://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
