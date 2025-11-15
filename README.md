@@ -1,83 +1,95 @@
-# 🧑‍💻 Taufiq Hassan
-### Full Stack Developer • Cloud Engineer (AWS Certified) • Blockchain Enthusiast
+# 🟩 TAUFIQ HASSAN — CLOUD × BACKEND × SYSTEMS  
+_\"Init sequence complete. Deploying skillset…\"_
 
-============================================================
+---
 
-🛰️ System Status: ACTIVE
-> profile.load()
-Status: Online
-Location: India
-Role: Full Stack & Cloud Engineer
-AWS Certification: CLF-02 (Score: 914/1000)
+## 🛡️ AWS Certification  
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/0b6a0d3a-9e55-4b04-a148-1f7b98f4eec7/blob.svg)](https://www.credly.com/badges/e16d3e51-16b0-4bba-ab3e-68e1b4d876be/public_url)
 
-============================================================
+---
 
-⚡ AWS CERTIFICATION
-AWS Certified Cloud Practitioner (CLF-02)
-VALID | VERIFIED | SCORE: 914/1000
+## 🖥️ Whoami  
+\`\`\`bash
+$ whoami  
+taufiqhassan — full-stack dev | cloud engineer | system design learner
+\`\`\`
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e16d3e51-16b0-4bba-ab3e-68e1b4d876be" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+---
 
-============================================================
+## 💀 Skill Matrix
 
-🔧 TECH STACK  (system.scan())
+\`\`\`
+> languages:
+    - TypeScript ⚡
+    - JavaScript ⚡
+    - Go (gopher-in-training)
+    - C++ (DSA mode ON)
+    - Bash
 
-LANGUAGES     :: JavaScript • TypeScript • Go • Python • Solidity • C++
-FRONTEND      :: React • Next.js • Tailwind
-BACKEND       :: Node.js • Express • Django • Go Fiber
-CLOUD         :: AWS [Lambda, API Gateway, DynamoDB, S3, EC2, CloudWatch]
-DB SYSTEMS    :: MongoDB • PostgreSQL • SQLite • DynamoDB
-DEVOPS        :: Docker • Linux • Git • CI/CD
-DISTRIBUTED   :: Kafka • WebSockets • GraphQL
-BLOCKCHAIN    :: Solidity • Hardhat • Ethers.js
+> backend:
+    - Node.js / Express
+    - REST, GraphQL
+    - WebSockets, real-time systems
+    - Serverless (Lambda, API Gateway)
 
-============================================================
+> cloud & infra:
+    - AWS Lambda
+    - DynamoDB / S3
+    - CloudWatch
+    - EC2 / VPC / IAM
+    - SSM Session Manager
 
-📁 ACTIVE PROJECTS  (open_repos)
+> db:
+    - MongoDB
+    - PostgreSQL
+    - DynamoDB
 
-▶ NFTorium — Decentralized NFT Marketplace
-stack: Solidity • Hardhat • React
-todo : UI Enhancements • Bidding Engine • Smart Contract Optimization
-repo : https://github.com/toffee-k21/NFTorium
+> tools:
+    - Git / GitHub
+    - Docker
+    - NGINX
+    - Linux (Fedora + Ubuntu)
+\`\`\`
 
-▶ Synapse — Developer Discussion Platform
-stack: Django • SQLite
-todo : UI fixes • HTML/CSS polish • Bug eliminations • Refactoring
-repo : https://github.com/toffee-k21/synapse
+---
 
-============================================================
+## ⚙️ Featured Project — **SHRNK (Serverless URL Shortener)**  
+\`\`\`
+stack:
+   - TypeScript
+   - Express
+   - AWS Lambda
+   - DynamoDB
+   - API Gateway
+   - S3
+   - CloudWatch
 
-🌐 CONNECT (network.interfaces)
+status:
+   > live
+   > scalable
+   > hacker-minimal architecture
+\`\`\`
 
-LinkedIn :: https://www.linkedin.com/in/taufiq-hassan-311221295
-Email    :: taufiq2004.21@gmail.com
+---
 
-============================================================
+## 🧠 Current Mission  
+\`\`\`
+[+] crack product-based placements  
+[+] master DSA + system design  
+[+] complete cloud specialization  
+[+] build real-time distributed systems  
+\`\`\`
 
-🎖 BADGES (holopin.sync)
-[![Holopin](https://holopin.me/toffeek21)](https://holopin.io/@toffeek21)
+---
 
-============================================================
+## 🔌 Connect  
+\`\`\`
+> GitHub:   github.com/toffee21
+> LinkedIn: linkedin.com/in/taufiq-hassan  
+> AWS Credly: linked above ↑
+\`\`\`
 
-📊 SYSTEM ANALYSIS: LANG STATS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffee-k21&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-============================================================
-
-⚙️ system.info()
-
-OS          :: Linux + Windows Dual Use  
-Terminal    :: VS Code / Bash / PowerShell  
-Architecture:: Full Stack + Cloud + Web3  
-Status      :: Learning • Building • Contributing  
-
-============================================================
-
-🚀 EXECUTE COMMAND
-
-> contribute --repo="taufiq"
-Pull Requests welcome.
-Beginners welcome.
-Errors welcome.
-Growth guaranteed.
+## ©️ License  
+MIT — you break it, you fix it 😎
