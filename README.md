@@ -1,10 +1,6 @@
 # Taufiq Hassan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF33&background=00000000&vCenter=true&width=600&lines=Backend; Cloud;AI;Automation+%26+Scalability" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=toffee-k21&label=PROFILE%20VIEWS&color=00ff00&style=flat-square" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Exploring+Cloud+Infrastructure;Building+with+AI+%26+LLMs;Automating+Things+That+Scale" alt="Typing SVG" />
 
 ### 👤 $ whoami
 
