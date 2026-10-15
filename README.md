@@ -1,6 +1,6 @@
 # Taufiq Hassan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF33&background=00000000&vCenter=true&width=600&lines=Full-Stack+Cloud+Developer;Web3+%26+Blockchain+Enthusiast;System+Design+Learner;Obsessed+with+Automation+%26+Scalability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF33&background=00000000&vCenter=true&width=600&lines=Backend; Cloud;AI;Automation+%26+Scalability" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=toffee-k21&label=PROFILE%20VIEWS&color=00ff00&style=flat-square" alt="Profile views" />
