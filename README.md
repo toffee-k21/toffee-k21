@@ -39,7 +39,6 @@
 ### 🚀 $ activity --graph
 
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=toffee-k21&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <img src='https://github-contributor-stats.vercel.app/api?username=toffee-k21&limit=4&theme=dark&combine_all_yearly_contributions=true' alt="GitHub Contributor Stats" />
 </p>
 
